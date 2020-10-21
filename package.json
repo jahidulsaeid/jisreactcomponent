@@ -1,0 +1,25 @@
+{
+  "name": "jisreactcomponent",
+  "version": "1.0.0",
+  "description": "React Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jahidulsaeid/jis_react_component.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Jahidul Islam Saeid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahidulsaeid/jis_react_component/issues"
+  },
+  "homepage": "https://github.com/jahidulsaeid/jis_react_component#readme",
+  "dependencies": {
+    "styled-components": "^5.2.0"
+  }
+}

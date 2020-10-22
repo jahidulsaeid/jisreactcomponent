@@ -9,5 +9,4 @@ const Button = styled.a`
   color: white;
   border: 2px solid white;
 `;
-
 export default Button;

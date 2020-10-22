@@ -1,3 +1,4 @@
-// import Button from './core/Button'
-
-export { default as Button } from "./core/Button";
+import Button from './core/Button';
+module.exports = {
+    Button,
+};

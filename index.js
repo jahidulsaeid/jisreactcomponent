@@ -1,4 +1,4 @@
 import Button from './core/Button';
-module.exports = {
+export{
     Button,
 };
